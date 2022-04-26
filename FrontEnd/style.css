@@ -3,12 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 section{
     width: 100%;
     height: 100vh;
     color: white;
-    background: linear-gradient(-45deg, #080808, #011936,#3c60ae,#d3d3d3);
+    background: linear-gradient(-45deg, #080808,#011936, #6e8896);
     background-size: 400% 400%;
     position: relative;
     animation: change 10s ease-in-out infinite;
